@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Emily Ng. I’m entering the last year of my MS/BS program, studying Medical Informatics, Computational Biology, and Public Health at the University of California, Los Angeles. I'm passionate about applying data science to healthcare and medicine. In my freetime, you can find me baking, rollerskating, or steering for a dragon boat team.",
-  resume: "https://drive.google.com/file/d/1Z4pGUopr9wHb_L52vv0LAyWEvhxeCP46/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1d79g9o6gvF9w_JO-ph4iwoV_TWDSKPpi/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -56,7 +56,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "heyyitsemyy", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ['MRI-Classification', 'Limbal_Stem_Cell_Deficiency', 'M228_Sleep_Classifier', 'GWAS'],
+  specificRepos: ['CT-Needle-Image-Classification', 'Limbal_Stem_Cell_Deficiency', 'M228_Sleep_Classifier', 'GWAS'],
 };
 
 // Leadership SECTION
