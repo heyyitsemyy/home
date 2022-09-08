@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Emily",
   middleName: "",
   lastName: "Ng",
-  message: " Passionate about applying data science to healthcare and medicine. ",
+  message: "Passionate about applying data science, machine learning, and technology to solve complex problems. ",
   icons: [
     {
       image: "fa-github",
@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/Q38A0386.png"),
   imageSize: 375,
   message:
-    "My name is Emily Ng. I’m entering the last year of my MS/BS program, studying Medical Informatics, Computational Biology, and Public Health at the University of California, Los Angeles. I'm passionate about applying data science to healthcare and medicine. In my freetime, you can find me baking, rollerskating, or steering for a dragon boat team.",
+    "My name is Emily Ng. I’m entering the last year of my MS/BS program, studying Medical Informatics, Computational Biology, and Public Health at the University of California, Los Angeles. I'm passionate about applying data science, machine learning, and technology to solve complex problems.",
   resume: "https://drive.google.com/drive/folders/1U17LH2ub3FIA1FMe-BSSp3b6hi7aFODO?usp=sharing",
 };
 
